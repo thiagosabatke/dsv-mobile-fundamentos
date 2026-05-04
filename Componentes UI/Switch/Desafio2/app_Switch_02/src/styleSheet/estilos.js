@@ -1,0 +1,127 @@
+import { StyleSheet } from 'react-native';
+
+export const estilos = StyleSheet.create({
+  area_fundo: {
+    flex: 1,
+    backgroundColor: '#0F172A', 
+  },
+  scrollContainer: {
+    flexGrow: 1,
+  },
+  area_cabecalho: {
+    backgroundColor: '#1E293B',
+    paddingTop: 40,
+    paddingBottom: 20,
+    alignItems: 'center',
+    borderBottomWidth: 3,
+    borderBottomColor: '#EAB308',
+  },
+  img_cabecalho: {
+    width: 150,
+    height: 150,
+    marginBottom: 10,
+    resizeMode: 'contain',
+  },
+  titulo_cabecalho: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    color: '#F8FAFC',
+    letterSpacing: 2,
+  },
+  area_conteudo: {
+    flex: 1,
+    padding: 25,
+    alignItems: 'stretch',
+  },
+  label: {
+    fontSize: 14,
+    color: '#94A3B8',
+    marginTop: 15,
+    marginBottom: 8,
+    fontWeight: '700',
+    textTransform: 'uppercase',
+  },
+  input: {
+    width: '100%',
+    height: 50,
+    borderWidth: 1,
+    borderColor: '#334155',
+    borderRadius: 10,
+    paddingHorizontal: 15,
+    fontSize: 16,
+    color: '#000',
+    marginBottom: 15,
+  },
+  pickerWrapper: {
+    width: '100%',
+    backgroundColor: '#F8FAFC',
+    borderRadius: 10,
+    marginBottom: 15,
+    overflow: 'hidden',
+  },
+  picker: {
+    height: 50,
+    width: '100%',
+  },
+  switchRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    backgroundColor: '#1E293B',
+    padding: 15,
+    borderRadius: 10,
+    marginBottom: 15,
+    borderWidth: 1,
+    borderColor: '#334155',
+  },
+  labelSwitch: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    color: '#F8FAFC',
+  },
+  slider: {
+    width: '100%',
+    height: 40,
+    marginBottom: 25,
+  },
+  button: {
+    width: '100%',
+    backgroundColor: '#f5cb4d',
+    paddingVertical: 15,
+    borderRadius: 10,
+    alignItems: 'center',
+  },
+  buttonText: {
+    color: '#0F172A',
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  resultBox: {
+    width: '100%',
+    marginTop: 30,
+    padding: 20,
+    borderRadius: 10,
+    backgroundColor: '#1E293B',
+    borderWidth: 1,
+    borderColor: '#EAB308',
+  },
+  resultText: {
+    fontSize: 16,
+    color: '#F1F5F9',
+    lineHeight: 24,
+    textAlign: 'center',
+  },
+  area_rodape: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    backgroundColor: '#1E293B',
+    paddingHorizontal: 20,
+    paddingVertical: 15,
+    borderTopWidth: 1,
+    borderTopColor: '#334155',
+  },
+  texto_rodape: {
+    fontSize: 12,
+    color: '#94A3B8',
+  }
+});
