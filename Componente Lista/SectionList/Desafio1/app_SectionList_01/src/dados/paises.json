@@ -1,0 +1,24 @@
+[
+  {
+    "title": "AMÉRICA DO SUL",
+    "data": [
+      { "id": "1", "nome": "Brasil", "capital": "Brasília", "idioma": "Português", "moeda": "Real (BRL)" },
+      { "id": "2", "nome": "Argentina", "capital": "Buenos Aires", "idioma": "Espanhol", "moeda": "Peso Argentino (ARS)" },
+      { "id": "3", "nome": "Chile", "capital": "Santiago", "idioma": "Espanhol", "moeda": "Peso Chileno (CLP)" }
+    ]
+  },
+  {
+    "title": "EUROPA",
+    "data": [
+      { "id": "4", "nome": "França", "capital": "Paris", "idioma": "Francês", "moeda": "Euro (EUR)" },
+      { "id": "5", "nome": "Itália", "capital": "Roma", "idioma": "Italiano", "moeda": "Euro (EUR)" },
+      { "id": "6", "nome": "Alemanha", "capital": "Berlim", "idioma": "Alemão", "moeda": "Euro (EUR)" }
+    ]
+  },
+  {
+    "title": "ÁSIA",
+    "data": [
+      { "id": "7", "nome": "Japão", "capital": "Tóquio", "idioma": "Japonês", "moeda": "Iene (JPY)" }
+    ]
+  }
+]
