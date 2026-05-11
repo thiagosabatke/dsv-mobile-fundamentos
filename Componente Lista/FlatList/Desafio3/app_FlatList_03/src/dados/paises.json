@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "pais": "Brasil",
+    "capital": "Brasília",
+    "populacao": "203 milhões",
+    "continente": "América do Sul",
+    "imagem": "brasil"
+  },
+  {
+    "id": "2",
+    "pais": "Argentina",
+    "capital": "Buenos Aires",
+    "populacao": "45 milhões",
+    "continente": "América do Sul",
+    "imagem": "argentina"
+  },
+  {
+    "id": "3",
+    "pais": "Chile",
+    "capital": "Santiago",
+    "populacao": "19 milhões",
+    "continente": "América do Sul",
+    "imagem": "chile"
+  },
+  {
+    "id": "4",
+    "pais": "Paraguai",
+    "capital": "Assunção",
+    "populacao": "7 milhões",
+    "continente": "América do Sul",
+    "imagem": "paraguai"
+  },
+  {
+    "id": "5",
+    "pais": "Uruguai",
+    "capital": "Montevidéu",
+    "populacao": "3 milhões",
+    "continente": "América do Sul",
+    "imagem": "uruguai"
+  },
+  {
+    "id": "6",
+    "pais": "Estados Unidos",
+    "capital": "Washington",
+    "populacao": "331 milhões",
+    "continente": "América do Norte",
+    "imagem": "eua"
+  },
+  {
+    "id": "7",
+    "pais": "Canadá",
+    "capital": "Ottawa",
+    "populacao": "38 milhões",
+    "continente": "América do Norte",
+    "imagem": "canada"
+  },
+  {
+    "id": "8",
+    "pais": "México",
+    "capital": "Cidade do México",
+    "populacao": "128 milhões",
+    "continente": "América do Norte",
+    "imagem": "mexico"
+  },
+  {
+    "id": "9",
+    "pais": "França",
+    "capital": "Paris",
+    "populacao": "67 milhões",
+    "continente": "Europa",
+    "imagem": "franca"
+  },
+  {
+    "id": "10",
+    "pais": "Alemanha",
+    "capital": "Berlim",
+    "populacao": "83 milhões",
+    "continente": "Europa",
+    "imagem": "alemanha"
+  }
+]

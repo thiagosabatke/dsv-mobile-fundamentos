@@ -1,15 +1,14 @@
 import React from "react";
-import { View } from "react-native";
-
+import { View, StatusBar } from 'react-native';
+import { estilos } from "./src/styleSheet/estilos";
 import Cabecalho from "./src/componentes/Cabecalho";
 import Conteudo from "./src/componentes/Conteudo";
 import Rodape from "./src/componentes/Rodape";
 
-import { estilos } from "./src/styleSheet/estilos";
-
 export default function App() {
   return (
     <View style={estilos.area_fundo}>
+      <StatusBar barStyle="light-content" backgroundColor="#1E293B" />
       <Cabecalho />
       <Conteudo />
       <Rodape />
